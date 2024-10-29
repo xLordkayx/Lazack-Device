@@ -1,6 +1,6 @@
 {
-  "name": "Lazack Device",
-  "description": " Whatsapp botz made by team lazack.",
+  "name": "I Love Precious",
+  "description": " Whatsapp botz made by team love.",
   "keywords": [
     "whatsapp bot"
   ],
@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255734980103"
+      "value": "2347045505096"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "𝐋𝐀𝐙𝐀𝐂𝐊-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "I love Precious"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -25,12 +25,12 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "/"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
