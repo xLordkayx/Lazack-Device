@@ -6,7 +6,7 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const ownervb = process.env.OWNERS || "255734980103"
+const ownervb = process.env.OWNERS || "2347045505096"
 
 
 const ownerlist = ownervb.split(';');
@@ -23,9 +23,9 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['255734980103', '255758868502']
-global.prems = ['255734980103', '255758868502', '255734980103']
-global.allowed = ['255734980103', '255734980103']
+global.mods = ['255734980103', '255758868502', '2347045505096']
+global.prems = ['2347045505096']
+global.allowed = ['2347045505096']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x'
+global.canal = 'https://whatsapp.com/channel/0029VajNrqi7dmegpU2Yla1f'
 
 
 global.APIs = {
@@ -74,8 +74,8 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = '𝙇𝙖𝙯𝙖𝙘𝙠'
-global.author = '𝙡𝙖𝙯𝙖𝙘𝙠'
+global.packname = 'I love precious'
+global.author = 'Lordkay'
 global.menuvid = ''
 global.igfg = ''
 global.dygp = ''
